@@ -47,7 +47,7 @@ Pandas, NumPy
 **Dataset:** [Mental-Health-Twitter.csv](https://github.com/user-attachments/files/26855016/Mental-Health-Twitter.csv)
 **Models:** [BERT,HGNN.ipynb](https://github.com/user-attachments/files/26855020/BERT.HGNN.ipynb)
 
-## 📌 **Output**
+## 📌 **Visualization**
 <img width="692" height="333" alt="BERT 1" src="https://github.com/user-attachments/assets/e795547f-6e1f-414b-8487-949249749abc" />
 <img width="689" height="374" alt="BERT 2" src="https://github.com/user-attachments/assets/feb5385a-e265-418b-bfd8-036274c4dce8" />
 <img width="687" height="453" alt="BERT 3" src="https://github.com/user-attachments/assets/a7ca378c-7e7a-48aa-b63b-74c52154b213" />
@@ -61,3 +61,20 @@ Pandas, NumPy
 <img width="645" height="498" alt="BERT 12" src="https://github.com/user-attachments/assets/1be39d3d-53d7-429c-806e-7376b8c925f2" />
 <img width="653" height="508" alt="BERT" src="https://github.com/user-attachments/assets/96fb8245-f39a-45b2-b9b8-06f0d7d12ed7" />
 <img width="660" height="476" alt="BERT9" src="https://github.com/user-attachments/assets/7df84244-9738-40f8-9adb-543e37ba77ba" />
+📁 Project Structure
+data/ → Dataset
+code/ → Model implementation
+results/ → Output graphs
+🛠️ Technologies Used
+Python
+Transformers (BERT)
+PyTorch
+Scikit-learn
+Pandas, NumPy
+🚀 Future Improvements
+Multimodal analysis (text + behavior + images)
+Graph Neural Networks (GNN/HGNN)
+Explainable AI integration
+📬 Contact
+
+gullandam8@gmail.com
