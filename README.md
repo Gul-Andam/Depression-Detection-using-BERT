@@ -1,2 +1,63 @@
-# Depression-Detection-using-BERT
-Depression detection using BERT with sentiment, emotion, and temporal analysis
+# 🧠 Depression Detection using BERT
+
+## 📌 Overview
+This project presents a transformer-based approach for detecting depression from social media data using Natural Language Processing (NLP) and Machine Learning techniques.
+
+The system integrates sentiment analysis, emotion detection, and temporal behavior modeling to improve prediction accuracy and capture the evolution of mental health over time.
+🎯 Objectives
+Detect depression from textual data using BERT
+Analyze sentiment and emotional patterns
+Track user behavior over time (temporal analysis)
+Improve prediction performance using advanced NLP techniques
+
+⚙️ Methodology
+Data preprocessing (cleaning, normalization)
+Feature extraction (text + behavioral features)
+Model: BERT (Transformer-based NLP)
+Training & evaluation using labeled dataset
+
+## ⚙️ Model
+- BERT Transformer
+- Sentiment Analysis
+- Emotion Detection
+
+## 📊 Features
+Transformer-based NLP model (BERT)
+Sentiment & emotion analysis
+Temporal trend tracking
+Scalable for real-world applications
+
+## 📈 Results
+Achieved ~91% accuracy using BERT
+Improved performance using sentiment and emotion features
+Identified temporal trends in user behavior
+
+## 🚀 Future Work
+Integration of multimodal data (images, user behavior)
+Graph Neural Networks (GNN/HGNN) for community detection
+Privacy-preserving AI techniques
+
+🛠️ Technologies Used
+Python
+Transformers (BERT)
+Scikit-learn
+Pandas, NumPy
+## 🚀 Files
+
+**Dataset:** [Mental-Health-Twitter.csv](https://github.com/user-attachments/files/26855016/Mental-Health-Twitter.csv)
+**Models:** [BERT,HGNN.ipynb](https://github.com/user-attachments/files/26855020/BERT.HGNN.ipynb)
+
+## 📌 **Output**
+<img width="692" height="333" alt="BERT 1" src="https://github.com/user-attachments/assets/e795547f-6e1f-414b-8487-949249749abc" />
+<img width="689" height="374" alt="BERT 2" src="https://github.com/user-attachments/assets/feb5385a-e265-418b-bfd8-036274c4dce8" />
+<img width="687" height="453" alt="BERT 3" src="https://github.com/user-attachments/assets/a7ca378c-7e7a-48aa-b63b-74c52154b213" />
+<img width="679" height="453" alt="BERT 4" src="https://github.com/user-attachments/assets/ef9df95a-5fb2-418a-8d75-149c1d98c5ff" />
+<img width="631" height="417" alt="BERT 5" src="https://github.com/user-attachments/assets/2c92adfb-57b9-44db-9115-4d20125aacb5" />
+<img width="687" height="466" alt="BERT 6" src="https://github.com/user-attachments/assets/e0311ebe-c473-4afb-b298-a526fc6e0b72" />
+<img width="638" height="507" alt="BERT 7" src="https://github.com/user-attachments/assets/ccfdab1b-3481-4565-826c-88d31fd8ba03" />
+<img width="648" height="501" alt="BERT 8" src="https://github.com/user-attachments/assets/fd2928ee-a993-4433-a79d-190a1e8199e1" />
+<img width="571" height="390" alt="BERT 10" src="https://github.com/user-attachments/assets/4379e6c6-5b0f-4388-842b-2eb0ada1cb3c" />
+<img width="634" height="475" alt="BERT 11" src="https://github.com/user-attachments/assets/125eca78-2a99-4d8e-ab16-d20ac93863c4" />
+<img width="645" height="498" alt="BERT 12" src="https://github.com/user-attachments/assets/1be39d3d-53d7-429c-806e-7376b8c925f2" />
+<img width="653" height="508" alt="BERT" src="https://github.com/user-attachments/assets/96fb8245-f39a-45b2-b9b8-06f0d7d12ed7" />
+<img width="660" height="476" alt="BERT9" src="https://github.com/user-attachments/assets/7df84244-9738-40f8-9adb-543e37ba77ba" />
