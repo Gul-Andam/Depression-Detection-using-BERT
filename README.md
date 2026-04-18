@@ -61,20 +61,24 @@ Pandas, NumPy
 <img width="645" height="498" alt="BERT 12" src="https://github.com/user-attachments/assets/1be39d3d-53d7-429c-806e-7376b8c925f2" />
 <img width="653" height="508" alt="BERT" src="https://github.com/user-attachments/assets/96fb8245-f39a-45b2-b9b8-06f0d7d12ed7" />
 <img width="660" height="476" alt="BERT9" src="https://github.com/user-attachments/assets/7df84244-9738-40f8-9adb-543e37ba77ba" />
-📁 Project Structure
+
+📁 🎯** Project Structure**
 data/ → Dataset
 code/ → Model implementation
 results/ → Output graphs
-🛠️ Technologies Used
+
+**🛠️ Technologies Used**
 Python
 Transformers (BERT)
 PyTorch
 Scikit-learn
 Pandas, NumPy
-🚀 Future Improvements
+
+**🚀 Future Improvements**
 Multimodal analysis (text + behavior + images)
 Graph Neural Networks (GNN/HGNN)
 Explainable AI integration
-📬 Contact
+
+**📬 Contact**
 
 gullandam8@gmail.com
