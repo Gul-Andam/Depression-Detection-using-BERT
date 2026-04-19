@@ -15,10 +15,10 @@ This project implements a transformer-based NLP system to detect depression from
 
 ---
 ⚙️ Methodology
-Data preprocessing (cleaning, normalization)
-Feature extraction (text + behavioral features)
-Model: BERT (Transformer-based NLP)
-Training & evaluation using labeled dataset
+* Data preprocessing (cleaning, normalization)
+* Feature extraction (text + behavioral features)
+* Model: BERT (Transformer-based NLP)
+* Training & evaluation using labeled dataset
 ---
 
 ## ⚙️ Model
@@ -76,7 +76,7 @@ Python, PyTorch, Transformers, Scikit-learn
 
 ---
 
-## 📌 **Output**
+## 📌 **Proof of Work**
 <img width="692" height="333" alt="BERT 1" src="https://github.com/user-attachments/assets/e795547f-6e1f-414b-8487-949249749abc" />
 <img width="689" height="374" alt="BERT 2" src="https://github.com/user-attachments/assets/feb5385a-e265-418b-bfd8-036274c4dce8" />
 <img width="687" height="453" alt="BERT 3" src="https://github.com/user-attachments/assets/a7ca378c-7e7a-48aa-b63b-74c52154b213" />
