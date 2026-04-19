@@ -14,7 +14,7 @@ This project implements a transformer-based NLP system to detect depression from
 * Improve prediction using BERT
 
 ---
-⚙️ Methodology
+⚙️ **Methodology**
 * Data preprocessing (cleaning, normalization)
 * Feature extraction (text + behavioral features)
 * Model: BERT (Transformer-based NLP)
