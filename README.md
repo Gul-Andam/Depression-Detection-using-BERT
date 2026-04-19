@@ -1,4 +1,4 @@
-# 🧠 Depression Detection using BERT
+<img width="1000" height="500" alt="Code_Generated_Image (7)" src="https://github.com/user-attachments/assets/847b308a-530b-4128-833b-89c3672708a9" /># 🧠 Depression Detection using BERT
 
 ## 📌 Overview
 
@@ -25,6 +25,10 @@ Real-world mental health application
 
 * BERT (Transformer-based NLP)
 * GNN (Graph Neural Network)
+### Model Performance
+<img width="989" height="590" alt="download (55)" src="https://github.com/user-attachments/assets/b245e975-d56a-4449-8bd0-58ab6aa7aa31" />
+<img width="1000" height="500" alt="Code_Generated_Image (7)" src="https://github.com/user-attachments/assets/563dcf32-a539-4d83-b967-aea70eb7d54e" />
+
 ---
 
 ## 📊 Results
