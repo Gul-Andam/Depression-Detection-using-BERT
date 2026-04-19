@@ -1,4 +1,4 @@
-<img width="1000" height="500" alt="Code_Generated_Image (7)" src="https://github.com/user-attachments/assets/847b308a-530b-4128-833b-89c3672708a9" /># 🧠 Depression Detection using BERT
+# 🧠 Depression Detection using BERT
 
 ## 📌 Overview
 
