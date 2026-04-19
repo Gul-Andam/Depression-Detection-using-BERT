@@ -21,6 +21,19 @@ Real-world mental health application
 * Training & evaluation using labeled dataset
 ---
 
+⚙️ **Unique labels in the dataset:**
+* 1= Depressed
+* 0= Not Depressed
+
+Sample of post_text and label:
+	post_text	label
+7705	Bf said he heard my phone notifications going ...	1
+7704	I have watched so many terrible romantic comed...	1
+7703	Maid in Manhattan still gives me the most conf...	1
+7702	I know that's not 2002 Ralph but just DANG, OK	1
+7701	@threehares THAT TONGUE THO 😝	1
+
+
 ## ⚙️ Model
 
 * BERT (Transformer-based NLP)
