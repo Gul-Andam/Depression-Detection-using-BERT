@@ -5,6 +5,11 @@
 This project implements a transformer-based NLP system to detect depression from social media text using BERT. It goes beyond basic classification by integrating sentiment analysis, emotion detection, and temporal behavior patterns.
 
 ---
+## 📌 Research Gap
+
+The existing AI-driven mental health detection algorithms are mainly text-based semantics-based and do not have the ability to capture the temporal development of emotions and the social dynamics between users but we implement it.
+<img width="917" height="747" alt="image" src="https://github.com/user-attachments/assets/d32bd4aa-c09e-4a1b-a52f-58c693f04f5e" />
+
 
 ## * 🎯 Key Contributions
 BERT-based depression classification
@@ -14,11 +19,27 @@ Real-world mental health application
 
 ---
 
-⚙️ **Methodology**
+⚙️ **WorkFlow**
+<img width="927" height="694" alt="image" src="https://github.com/user-attachments/assets/3118e055-bb59-4ae2-adaf-d23eb102b37a" />
+
 * Data preprocessing (cleaning, normalization)
+  <img width="897" height="369" alt="image" src="https://github.com/user-attachments/assets/80850f9b-1905-4e34-8b00-bad9cc4d57f3" />
+
 * Feature extraction (text + behavioral features)
+  ## 🧩 Feature Engineering
+
+| Feature Type       | Source                  | Dimension | Purpose                                 |
+|--------------------|------------------------|----------|------------------------------------------|
+| Semantic Features  | BERT CLS Token         | 768      | Deep contextual meaning                  |
+| Emotional Features | Contrastive Learning   | 128      | Emotion-sensitive representation         |
+| Graph Features     | GNN Output             | 64–128   | User relations & social signals          |
+| Temporal Features  | Time normalization     | Variable | Depression trend tracking                |
+
 * Model: BERT (Transformer-based NLP)
+  <img width="866" height="626" alt="image" src="https://github.com/user-attachments/assets/34b0f3b8-79f5-413c-a108-735e9ab30be1" />
+
 * Training & evaluation using labeled dataset
+
 ---
 
 ⚙️ **Unique labels in the dataset:**
@@ -37,6 +58,7 @@ Real-world mental health application
 
 * BERT (Transformer-based NLP)
 * GNN (Graph Neural Network)
+* Hybrid Model
 ### Model Performance
 <img width="989" height="590" alt="download (55)" src="https://github.com/user-attachments/assets/b245e975-d56a-4449-8bd0-58ab6aa7aa31" />
 <img width="1000" height="500" alt="Code_Generated_Image (7)" src="https://github.com/user-attachments/assets/563dcf32-a539-4d83-b967-aea70eb7d54e" />
