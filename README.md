@@ -2,18 +2,18 @@
 
 ## 📌 Overview
 
-This project implements a transformer-based NLP system to detect depression from social media text using BERT. It integrates sentiment analysis, emotion detection, and temporal behavior tracking to improve prediction accuracy.
+This project implements a transformer-based NLP system to detect depression from social media text using BERT. It goes beyond basic classification by integrating sentiment analysis, emotion detection, and temporal behavior patterns.
 
 ---
 
-## 🎯 Objectives
-
-* Detect depression from text data
-* Analyze sentiment and emotional patterns
-* Track user behavior over time
-* Improve prediction using BERT
+## * 🎯 Key Contributions
+BERT-based depression classification
+Sentiment and emotion-aware predictions
+Temporal behavior tracking
+Real-world mental health application
 
 ---
+
 ⚙️ **Methodology**
 * Data preprocessing (cleaning, normalization)
 * Feature extraction (text + behavioral features)
@@ -59,6 +59,12 @@ This project implements a transformer-based NLP system to detect depression from
 * Temporal trend tracking
 * <img width="1189" height="590" alt="download (25)" src="https://github.com/user-attachments/assets/4ace98a7-a87a-44ce-9e34-fad40a341827" />
 
+
+---
+
+## 🔍 **Why This Project Matters**
+
+Depression affects millions globally, and early detection through AI can help in timely intervention. Transformer-based models like BERT have shown strong performance in detecting mental health patterns from text.
 
 ---
 
