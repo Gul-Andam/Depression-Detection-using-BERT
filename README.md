@@ -1,53 +1,82 @@
 # 🧠 Depression Detection using BERT
 
 ## 📌 Overview
-This project presents a transformer-based approach for detecting depression from social media data using Natural Language Processing (NLP) and Machine Learning techniques.
 
-The system integrates sentiment analysis, emotion detection, and temporal behavior modeling to improve prediction accuracy and capture the evolution of mental health over time.
-🎯 Objectives
-Detect depression from textual data using BERT
-Analyze sentiment and emotional patterns
-Track user behavior over time (temporal analysis)
-Improve prediction performance using advanced NLP techniques
+This project implements a transformer-based NLP system to detect depression from social media text using BERT. It integrates sentiment analysis, emotion detection, and temporal behavior tracking to improve prediction accuracy.
 
+---
+
+## 🎯 Objectives
+
+* Detect depression from text data
+* Analyze sentiment and emotional patterns
+* Track user behavior over time
+* Improve prediction using BERT
+
+---
 ⚙️ Methodology
 Data preprocessing (cleaning, normalization)
 Feature extraction (text + behavioral features)
 Model: BERT (Transformer-based NLP)
 Training & evaluation using labeled dataset
+---
 
 ## ⚙️ Model
-- BERT Transformer
-- Sentiment Analysis
-- Emotion Detection
 
-## 📊 Features
-Transformer-based NLP model (BERT)
-Sentiment & emotion analysis
-Temporal trend tracking
-Scalable for real-world applications
+* BERT (Transformer-based NLP)
+* GNN (Graph Neural Network)
+---
 
-## 📈 Results
-Achieved ~91% accuracy using BERT
-Improved performance using sentiment and emotion features
-Identified temporal trends in user behavior
+## 📊 Results
 
-## 🚀 Future Work
-Integration of multimodal data (images, user behavior)
-Graph Neural Networks (GNN/HGNN) for community detection
-Privacy-preserving AI techniques
+* Accuracy: **~91%**
+* Improved detection using sentiment & emotion features
+* Identified temporal trends in user behavior
 
-🛠️ Technologies Used
-Python
-Transformers (BERT)
-Scikit-learn
-Pandas, NumPy
-## 🚀 Files
+---
 
-**Dataset:** [Mental-Health-Twitter.csv](https://github.com/user-attachments/files/26855016/Mental-Health-Twitter.csv)
-**Models:** [BERT,HGNN.ipynb](https://github.com/user-attachments/files/26855020/BERT.HGNN.ipynb)
+## 📈 Visual Results
 
-## 📌 **Visualization**
+### Confusion Matrix
+
+<img width="658" height="547" alt="download (1)" src="https://github.com/user-attachments/assets/cf982b99-f109-4044-a163-24bcfd8ef93c" />
+
+
+### Accuracy Graph
+
+<img width="693" height="528" alt="download (13)" src="https://github.com/user-attachments/assets/05a389fc-5ea9-4785-aa03-2f9722e78fc3" />
+
+
+### Graph Connectivity Score
+<img width="989" height="590" alt="download (18)" src="https://github.com/user-attachments/assets/80dced18-20a6-40bd-b176-227b2974e273" />
+
+---
+
+## 🔍 Features
+
+* Transformer-based model (BERT)
+* Sentiment & emotion analysis
+* Temporal trend tracking
+* <img width="1189" height="590" alt="download (25)" src="https://github.com/user-attachments/assets/4ace98a7-a87a-44ce-9e34-fad40a341827" />
+
+
+---
+
+## 📁 Project Structure
+
+* `data/` → Dataset
+* `code/` → Model
+* `results/` → Output
+
+---
+
+## 🛠️ Technologies
+
+Python, PyTorch, Transformers, Scikit-learn
+
+---
+
+## 📌 **Output**
 <img width="692" height="333" alt="BERT 1" src="https://github.com/user-attachments/assets/e795547f-6e1f-414b-8487-949249749abc" />
 <img width="689" height="374" alt="BERT 2" src="https://github.com/user-attachments/assets/feb5385a-e265-418b-bfd8-036274c4dce8" />
 <img width="687" height="453" alt="BERT 3" src="https://github.com/user-attachments/assets/a7ca378c-7e7a-48aa-b63b-74c52154b213" />
@@ -62,23 +91,16 @@ Pandas, NumPy
 <img width="653" height="508" alt="BERT" src="https://github.com/user-attachments/assets/96fb8245-f39a-45b2-b9b8-06f0d7d12ed7" />
 <img width="660" height="476" alt="BERT9" src="https://github.com/user-attachments/assets/7df84244-9738-40f8-9adb-543e37ba77ba" />
 
-📁 🎯** Project Structure**
-data/ → Dataset
-code/ → Model implementation
-results/ → Output graphs
+---
 
-**🛠️ Technologies Used**
-Python
-Transformers (BERT)
-PyTorch
-Scikit-learn
-Pandas, NumPy
+## 🚀 Future Work
 
-**🚀 Future Improvements**
-Multimodal analysis (text + behavior + images)
-Graph Neural Networks (GNN/HGNN)
-Explainable AI integration
+* Multimodal learning
+* Graph Neural Networks
+* Explainable AI
 
-**📬 Contact**
+---
 
-gullandam8@gmail.com
+## 📬 Contact
+
+[gullandam8@gmail.com](mailto:gullandam8@gmail.com)
