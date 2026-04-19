@@ -11,11 +11,12 @@ The existing AI-driven mental health detection algorithms are mainly text-based 
 <img width="917" height="747" alt="image" src="https://github.com/user-attachments/assets/d32bd4aa-c09e-4a1b-a52f-58c693f04f5e" />
 
 
-## * 🎯 Key Contributions
-BERT-based depression classification
-Sentiment and emotion-aware predictions
-Temporal behavior tracking
-Real-world mental health application
+## ⭐ Key Strengths
+
+- Uses transformer-based architecture (BERT)  
+- Combines semantic, emotional, and temporal features  
+- Includes visual evaluation and real dataset  
+- Aligns with modern research trends in mental health AI 
 
 ---
 
@@ -78,7 +79,7 @@ Real-world mental health application
 ### Confusion Matrix
 
 <img width="658" height="547" alt="download (1)" src="https://github.com/user-attachments/assets/cf982b99-f109-4044-a163-24bcfd8ef93c" />
-
+The confusion matrix shows the model's ability to correctly classify depressed and non-depressed instances with minimal misclassification.
 
 ### Accuracy Graph
 
